@@ -80,7 +80,7 @@ re	れ
 ro	ろ
 wa	わ
 wi	ゐ
-we	 ゑ
+we	ゑ
 wo	を
 nn	ん
 n	ん
