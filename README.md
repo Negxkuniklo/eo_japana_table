@@ -12,8 +12,6 @@
 なお、実際の打鍵で違和感なく打てるように、いくつか独自の法則性があります。
 
 ### 独自の法則の例
-- wa,wi,we,wo → わ、ゐ、ゑ、を
-- wji,wje → ゐ、ゑ
 - hu,fu → ふ、ふ
 - h,hx → ハ行
 - r,l → ラ行
@@ -23,5 +21,7 @@
 - cxi,cji → ち
 - dzu,dxu → づ
 - xa,xi,xu,xe,xo,xja,xji,xju,xje,xjo → ぁ、ぃ、ぅ、ぇ、ぉ、ゃ、ぃ、ゅ、ぇ、ょ
-- uxa,uxi,uxu,uxe,uxo → うぁ、うぃ、うぅ、うぇ、うぉ
+- uxa,uxi,uxe,uxo → わ、ゐ、ゑ、を
+- wa,wi,we,wo → わ、うぃ、うぇ、を
+- wxa,wja,wxo,wjo → うぁ、うぁ、うぉ、うぉ
 - xwa,xcu → ゎ、っ 
