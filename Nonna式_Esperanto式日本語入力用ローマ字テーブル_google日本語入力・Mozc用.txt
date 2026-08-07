@@ -1,38 +1,4 @@
--	ー
-~	〜
-.	。
-,	、
-z/	・
-z.	…
-z,	‥
-z-	〜
-z[	『
-z]	』
-[	「
-]	」
-
-qq	っ	q
-ww	っ	w
-rr	っ	r
-tt	っ	t
-yy	っ	y
-pp	っ	p
-ss	っ	s
-dd	っ	d
-ff	っ	f
-gg	っ	g
-hh	っ	h
-jj	っ	j
-kk	っ	k
-ll	っ	l
-zz	っ	z
-xx	っ	x
-cc	っ	c
-vv	っ	v
-bb	っ	b
-mm	っ	m
-www	w	ww
-
+www	ここから五十音
 a	あ
 i	い
 u	う
@@ -78,13 +44,14 @@ ri	り
 ru	る
 re	れ
 ro	ろ
-wa	わ
-wi	ゐ
-we	ゑ
-wo	を
+uxa	わ
+uxi	ゐ
+uxe	ゑ
+uxo	を
 nn	ん
 n	ん
 
+www	ここから濁点、半濁点
 ga	が
 gi	ぎ
 gu	ぐ
@@ -110,15 +77,13 @@ pi	ぴ
 pu	ぷ
 pe	ぺ
 po	ぽ
-va	ゔぁ
-vi	ゔぃ
+va	わ゙
+vi	ゐ゙
 vu	ゔ
-ve	ゔぇ
-vo	ゔぉ
-vja	ゔゃ
-vju	ゔゅ
-vjo	ゔょ
+ve	ゑ゙
+vo	を゙
 
+www	ここから拗音
 kja	きゃ
 kju	きゅ
 kje	きぇ
@@ -181,7 +146,11 @@ rja	りゃ
 rju	りゅ
 rje	りぇ
 rjo	りょ
+vja	ゔゃ
+vju	ゔゅ
+vjo	ゔょ
 
+www	ここからL、HX
 la	ら
 li	り
 lu	る
@@ -196,6 +165,8 @@ hxi	ひ
 hxu	ふ
 hxe	へ
 hxo	ほ
+
+www	ここから容認入力
 zji	じ
 zxi	じ
 zxe	ずぇ
@@ -226,5 +197,52 @@ xje	ぇ
 xjo	ょ
 xwa	ゎ
 xcu	っ
-wji	ゐ
-wje	ゑ
+wa	わ
+wi	うぃ
+wxi	うぃ
+wji	うぃ
+we	うぇ
+wxe	うぇ
+wje	うぇ
+wo	を
+wjo	うぉ
+wxo	うぉ
+
+www	ここから記号
+-	ー
+~	〜
+.	。
+,	、
+z/	・
+z.	…
+z,	‥
+z-	〜
+z[	『
+z]	』
+[	「
+]	」
+
+www	ここから促音
+qq	っ	q
+ww	っ	w
+rr	っ	r
+tt	っ	t
+yy	っ	y
+pp	っ	p
+ss	っ	s
+dd	っ	d
+ff	っ	f
+gg	っ	g
+hh	っ	h
+jj	っ	j
+kk	っ	k
+ll	っ	l
+zz	っ	z
+xx	っ	x
+cc	っ	c
+vv	っ	v
+bb	っ	b
+mm	っ	m
+
+www	ここから草
+www	www
